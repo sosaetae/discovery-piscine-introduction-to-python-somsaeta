@@ -1,0 +1,4 @@
+first_name = "somrudee"
+last_name = "saetae"
+whole_name = first_name + " " + last_name
+print(whole_name)
